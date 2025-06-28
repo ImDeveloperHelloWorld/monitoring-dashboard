@@ -1,0 +1,7 @@
+.table-sticky thead th {
+  position: sticky;
+  top: 0;
+  background-color: #343a40; /* Dark background to match Bootstrap dark */
+  color: #fff;
+  z-index: 2;
+}
